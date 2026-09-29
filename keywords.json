@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "keywords": [
+    {
+      "model": "ChatGPT",
+      "topic": "writing",
+      "items": ["Use a clear, natural tone", "Lead with the main point", "Use concise paragraphs"]
+    },
+    {
+      "model": "ChatGPT",
+      "topic": "research",
+      "items": ["Separate verified facts from uncertainty", "Cite reliable sources", "Summarize key findings"]
+    },
+    {
+      "model": "ChatGPT",
+      "topic": "coding",
+      "items": ["Explain assumptions", "Include runnable code", "Mention edge cases"]
+    },
+    {
+      "model": "Midjourney",
+      "topic": "imaging",
+      "items": ["cinematic lighting", "shallow depth of field", "strong visual composition"]
+    },
+    {
+      "model": "FLUX",
+      "topic": "imaging",
+      "items": ["specific subject details", "natural lighting", "realistic textures"]
+    },
+    {
+      "model": "Runway",
+      "topic": "video",
+      "items": ["describe subject motion", "specify camera movement", "keep the shot visually coherent"]
+    },
+    {
+      "model": "Kling",
+      "topic": "video",
+      "items": ["describe the action over time", "specify camera movement", "maintain subject consistency"]
+    }
+  ]
+}
